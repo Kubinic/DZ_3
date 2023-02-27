@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#_Homework\Домашняя_работа_№_3\exponentiation\obj\Debug\net7.0\exponentiation.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#_Homework\Домашняя_работа_№_3\exponentiation\obj\Debug\net7.0\exponentiation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#_Homework\Домашняя_работа_№_3\exponentiation\obj\Debug\net7.0\exponentiation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#_Homework\Домашняя_работа_№_3\exponentiation\obj\Debug\net7.0\exponentiation.AssemblyInfo.cs
+C:\Users\User\Desktop\C#_Homework\Домашняя_работа_№_3\exponentiation\obj\Debug\net7.0\exponentiation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#_Homework\Домашняя_работа_№_3\exponentiation\bin\Debug\net7.0\exponentiation.exe
+C:\Users\User\Desktop\C#_Homework\Домашняя_работа_№_3\exponentiation\bin\Debug\net7.0\exponentiation.deps.json
+C:\Users\User\Desktop\C#_Homework\Домашняя_работа_№_3\exponentiation\bin\Debug\net7.0\exponentiation.runtimeconfig.json
+C:\Users\User\Desktop\C#_Homework\Домашняя_работа_№_3\exponentiation\bin\Debug\net7.0\exponentiation.dll
+C:\Users\User\Desktop\C#_Homework\Домашняя_работа_№_3\exponentiation\bin\Debug\net7.0\exponentiation.pdb
+C:\Users\User\Desktop\C#_Homework\Домашняя_работа_№_3\exponentiation\obj\Debug\net7.0\exponentiation.dll
+C:\Users\User\Desktop\C#_Homework\Домашняя_работа_№_3\exponentiation\obj\Debug\net7.0\refint\exponentiation.dll
+C:\Users\User\Desktop\C#_Homework\Домашняя_работа_№_3\exponentiation\obj\Debug\net7.0\exponentiation.pdb
+C:\Users\User\Desktop\C#_Homework\Домашняя_работа_№_3\exponentiation\obj\Debug\net7.0\exponentiation.genruntimeconfig.cache
+C:\Users\User\Desktop\C#_Homework\Домашняя_работа_№_3\exponentiation\obj\Debug\net7.0\ref\exponentiation.dll
